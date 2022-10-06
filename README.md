@@ -18,6 +18,7 @@ I used the following technologies to come up with this web application;
 
 1.*React bootstrap*
 
+
 2.*React Icons*
 
 3.*ReactJs*
@@ -25,7 +26,9 @@ I used the following technologies to come up with this web application;
 4.*JavaScript*
 
 #### Why use the techonologies?
-I decided to use ReactJs as a main technology for this project mainly to enhance my mastery of various React topic learned during Moringa School Bootcamp.
+I decided to use ReactJs as a main technology for this project mainly to enhance my mastery of various React topic learned during Moringa School Bootcamp,in phase two.
+Bootstrap was used limitedly with 
+
 
 
 ###### Main Topics Used In React.
@@ -43,3 +46,6 @@ Run npm install
 Run npm start.
 
 Ensure NodeJs version 16.17.0 and above is installed into your local machine.
+
+##### CREDIT
+Without my technical mentor *Beatrice Wambui* and group members.This project couldn't have seen light.I therefore acknowledge their contribution on the success of this project at this point
