@@ -12,8 +12,21 @@ tour,travelling of for other functions.The platform provide description of cars 
 The client log into the platform,and get a variety of cars.One makes decision on the vehicle based on the description of the vehicle provided under each vehicle.
 With this kind of platform,I believe hiring vehicle will not be a burden to those who need to do so.
 Problems do arise during festive season when the demand of vehicle is always higher while locating a company offering such services become a burden to customers.
+
+#### Technology stack used
+I used the following technologies to come up with this web application;
+
+1.*React bootstrap*
+
+2.*React Icons*
+
+3.*ReactJs*
+
+4.*JavaScript*
+
 #### Why use the techonologies?
 I decided to use ReactJs as a main technology for this project mainly to enhance my mastery of various React topic learned during Moringa School Bootcamp.
+
 
 ###### Main Topics Used In React.
 
