@@ -3,6 +3,7 @@ import React from "react";
 import { Container, Row, Col, ListGroup, ListGroupItem } from "reactstrap";
 import { Link } from "react-router-dom";
 import "../../styles/footer.css";
+//This provides quick links to be accessed by users.
 
 const quickLinks = [
   {
