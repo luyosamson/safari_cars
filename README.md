@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+##### SAFARI CARS
+Safari cars is  a website that offers car hire services.It is located in Nairobi.
+This project was developed during Phase 2 bootcamp at Moringa School under software engineering programm.The main technologies applied here was react and it's related elements like react-dom router an react icons.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##### PPROJECT DESCRIPTION
 
-## Available Scripts
+First of all,I would like to clarify that this project is in its preliminary stages of development.This is just version 1 of many versions to come.
 
-In the project directory, you can run:
+##### What it does.
+Safari cars offer flexibility car reservation platform for clients who may need cars for 
+tour,travelling of for other functions.The platform provide description of cars based on capacity,speed,colour(their are people who prefer particular colours of cars) and fee charged per day.
+The client log into the platform,and get a variety of cars.One makes decision on the vehicle based on the description of the vehicle provided under each vehicle.
+With this kind of platform,I believe hiring vehicle will not be a burden to those who need to do so.
+Problems do arise during festive season when the demand of vehicle is always higher while locating a company offering such services become a burden to customers.
+#### Why use the techonologies?
+I decided to use ReactJs as a main technology for this project mainly to enhance my mastery of various React topic learned during Moringa School Bootcamp.
 
-### `npm start`
+###### Main Topics Used In React.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React components and props
+React Router and Custom hooks
+React States and usEffect hooks
+React Arrays and List
+Programmatic navigation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+###### HOW TO INSTALL THE PROJECT
 
-### `npm test`
+Clone the repository in your local machine using git clone "url"
+Run npm install
+Run npm start.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Ensure NodeJs version 16.17.0 and above is installed into your local machine.
