@@ -59,14 +59,9 @@ const BookingForm = () => {
         />
       </FormGroup>
 
-      <FormGroup>
-        <textarea
-          rows={5}
-          type="textarea"
-          className="textarea"
-          placeholder="Write"
-        ></textarea>
-      </FormGroup>
+        <div className="payment text-end mt-5">
+        <button>Reserve Now</button>
+      </div>
     </Form>
   );
 };
